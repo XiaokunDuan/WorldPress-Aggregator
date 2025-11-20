@@ -1,0 +1,5 @@
+{
+  "name": "WorldPress Aggregator",
+  "description": "A real-time global news aggregator powered by Gemini 2.5 and Google Search. View front-page headlines from major world media outlets organized by region and category.",
+  "requestFramePermissions": []
+}
